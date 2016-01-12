@@ -4,7 +4,7 @@
   "homepage": "http://racerjs.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/racer-websocket.git"
+    "url": "git://github.com/derbyjs/racer-websocket.git"
   },
   "version": "0.1.1",
   "main": "./lib/server.js",
@@ -15,5 +15,13 @@
     "ws": "~0.4"
   },
   "devDependencies": {},
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/derbyjs/racer-websocket/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
 }
